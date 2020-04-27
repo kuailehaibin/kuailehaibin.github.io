@@ -53,7 +53,7 @@ gitalk:
     repo: kuailehaibin.github.io #仓库名称
     owner: kuailehaibin #github用户名
     admin: kuailehaibin
-    distractionFreeMode: true #是否启用类似 FB 的阴影遮罩
+    distractionFreeMode: false #是否启用类似 FB 的阴影遮罩
 
 # 统计
 
