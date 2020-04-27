@@ -6,6 +6,6 @@ install:
   - gem install jekyll
   - gem install jekyll-paginate
 script:
-  - jekyll build
+  - jekyll build --trace
 after_success:
   - bash <(curl -s https://codecov.io/bash)
