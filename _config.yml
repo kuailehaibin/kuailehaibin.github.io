@@ -79,5 +79,3 @@ friends:
         { title: "BAETYL", href: "https://baetyl.io" },
         { title: "简书", href: "http://www.jianshu.com/u/b3355ba275c1" },
     ]
-
-theme: jekyll-theme-hacker
